@@ -1,0 +1,204 @@
+/* 
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; 
+ }
+ 
+ body {
+     text-decoration: none;
+     
+ }
+ 
+ a {
+     text-decoration: none;
+ 
+ }
+
+ 
+ li {
+     list-style: none;
+     cursor: pointer;
+ }
+ 
+ .container {
+     padding-left: 1.1rem;
+     padding-right: 1.5rem;
+ }
+ 
+ .icon {
+     font-size: 1.1rem;
+     cursor: pointer;
+ }
+ 
+ .none {
+     display: none;
+ 
+ }
+ 
+ .flex {
+     display: flex;
+     align-items: center;
+ }
+ .grid {
+     display: grid;
+     align-items: center;
+ }
+ 
+ .btna {
+     padding: .7rem;
+     background: white;
+     border: none;
+     border-radius: 1rem;
+     cursor: pointer;
+     color:white;
+ 
+     a {
+         color: white;
+         font-weight: 5em;
+     }
+     &hover {
+         background-color: aquamarine;
+     }
+ }
+ 
+ img, video {
+     width: 10%;
+     height: auto;
+ }
+ 
+ input {
+     font-size:100%;
+     color:grey;
+ }
+ p{
+     font-size: 13px;
+     color: grey;
+     line-height: 22px;
+ }
+ h4 {
+     padding: 1rem 0;
+     font-weight: 700;
+     color: black;
+ }
+ 
+ h2 {
+     font-size: 25px;
+     padding: 1px;
+ }
+
+
+ /* Navbar Stlyling 
+ .navBar {
+    position: fixed;
+    flex-direction: column;
+    width: 100%;
+    z-index: 1000;
+
+    
+ }
+ .navBarOne, .navBarTwo {
+    justify-content: space-between;
+    padding: 1rem;
+    width: 100%;
+
+}
+.navBarOne {
+    background-color: rgb(68, 78, 68);
+}
+.icon:hover {
+    color:aquamarine;
+}
+span {
+    color: black;
+    font-size: 13px;
+    cursor: pointer;
+}
+span:hover {
+    color:aqua;
+    font-size: 700;
+}
+.navBarTwo {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    top: 1rem;
+    padding: 1rem 1rem;
+    position:fixed;
+    transition: .3 ease-in-out;
+}
+.logoDiv {
+    width: 20%;
+}
+
+@media screen and (max-width: 768px) {
+    .navbarMenu {
+        position: absolute;
+        background: black;
+        padding: 1.5rem;
+        border-radius: 10px;
+        top: 5rem;
+        right: 50%;
+        width: 80%;
+        transform: translateX(50%);
+        z-index:2000;
+        box-shadow: black;
+        border: 1px solid red;
+
+
+    }
+    
+}
+
+
+
+
+.btn {
+    padding: .7rem 1.5rem;
+    background: #8988c7;
+    border:none;
+    outline:none;
+    border-radius:3rem;
+    cursor: pointer;
+    color: white;
+}
+.atb {
+    gap: 1rem;
+}
+
+.hero {
+    background-color: aquamarine;
+    padding-left: 8rem;
+    padding-right: 8rem;
+    padding-top: 10rem;
+}
+.hero h2{
+    font-style: normal;
+    color:#ffff;
+    font-weight: bold;
+    font-size: 2rem;
+}
+.hero-block {
+    color: white;
+    font-weight: bold;
+    
+    
+}
+.hero-block a {
+    padding-left: 3rem;
+    color: white;
+}
+input {
+    border: 0px;
+    width: 30rem;
+    height: 4rem;
+    margin: 10px;
+    border-radius: 2px;
+}
+
+.hero-btn {
+    background-color: orange;
+    
+    padding: 1.2rem;
+  
+} */
