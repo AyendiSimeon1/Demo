@@ -28,18 +28,8 @@ li {
     flex-wrap: wrap;
     flex: auto;
 } */
-body {
-    background-image: linear-gradient(180deg, #7a6767, #58583b, #352d2d);
-    background-repeat: no-repeat;
-}
-nav {
-   color: white;
-    align-items: flex-end;
-    padding: 60px;
-    margin-left: 20px;
-    margin-right: 20px;
 
-}
+
 h1 {
     color: white;
 }
