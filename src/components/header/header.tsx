@@ -1,10 +1,5 @@
 import './header.css'
-import { FaBeer } from "react-icons/fa";
-// import {$iConsul} from 'react-icons/$i'
-import {BsPhoneVibrate} from 'react-icons/bs'
-import {AiOutlineGlobal} from 'react-icons/ai'
-import {CgMenuGridO} from 'react-icons/cg'
-import logo from '../../assets/img.jpg'
+
 const Header = () => {
 
     return (
